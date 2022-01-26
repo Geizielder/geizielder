@@ -11,6 +11,7 @@ Aluno / Sempre
 #### Cada nova habilidade aparaecera aqui:
 - :heavy_check_mark: HTML
 - :heavy_check_mark: CSS
+- :basecamp:42BaseCamp2022
 
 <!--
 **Geizielder/geizielder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
